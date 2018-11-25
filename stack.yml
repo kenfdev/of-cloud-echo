@@ -6,3 +6,4 @@ functions:
     lang: node
     handler: ./echo
     image: kenfdev/echo:latest
+    
