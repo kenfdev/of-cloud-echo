@@ -5,4 +5,4 @@ functions:
   echo:
     lang: node
     handler: ./echo
-    image: echo:latest
+    image: kenfdev/echo:latest
